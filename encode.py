@@ -54,5 +54,5 @@ if __name__ == '__main__':
    # Giấu tin vào file âm thanh
    hide_message(audio_path, message, output_path)
 
-   print(f"Đã giấu tin '{message}' vào file âm thanh '{audio_path}' và lưu kết quả vào file '{output_path}'")
+   print(f"Da giau tin '{message}' vao file am thanh '{audio_path}' va luu ket qua vao file '{output_path}'")
 
